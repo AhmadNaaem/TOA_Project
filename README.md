@@ -1,4 +1,4 @@
-# TOA_Project
+# DFA Roman Numeral Validator
 
 This project implements a Deterministic Finite Automaton (DFA) to validate Roman numerals from 1 to 50 (I to L) using a graphical user interface (GUI).
 
